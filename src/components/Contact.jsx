@@ -39,7 +39,7 @@ const Contact = () => {
       setStatus('');
     }
   };
-
+  
   return (
     <section
       id="contact"
